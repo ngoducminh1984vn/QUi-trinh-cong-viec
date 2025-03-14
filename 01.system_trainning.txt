@@ -120,6 +120,6 @@ Một số ví dụ về mối liên hệ giữa nguyên nhân và phương án 
 •	Nếu lỗi là nhiều sọc trục [#7] và nguyên nhân có thể là trục cán có lẫn tạp chất/dung môi [#4] hoặc thiết bị sản xuất không phù hợp [#9], thì các phương án xử lý bao gồm lau sạch trục, thay thùng sơn, kiểm tra độ lệch và độ đàn hồi của trục cán, hoặc kiểm tra dao gạt trục cán (đối với sơn màu).
 •	Đối với các vấn đề liên quan đến sản phẩm sơn không phù hợp [#3], quy trình khắc phục bao gồm việc kiểm tra tên sản phẩm, đối chiếu thông số với phiếu kiểm tra QC, đổi sản phẩm phù hợp, hoặc thậm chí điều chỉnh sản phẩm và báo cáo quản lý.
 •	Khi nghi ngờ thiết bị kiểm tra không phù hợp [#10], tài liệu nhấn mạnh sự cần thiết của thiết bị chính xác để đối chứng và việc xây dựng bản thông số về độ lệch.
-
+ Sơn UV bị tách lớp, : lớp trên không bám dính được với lớp sơn  dưới. Thông thường 1 là do lớp sơn dưới đã bị sấy quá nóng hoặc không chà nhám kĩ hoặc dính tạp chất lên bề mặt. 2 là lớp sơn trên không đủ độ khô , có thể do đèn sấy yếu , sơn quá dầy hoặc thiết bị sấy bị hỏng. Cần kiểm tra cụ thể từng yếu tố trên để đưa ra phương án chính xác. 
 				
 hướng
